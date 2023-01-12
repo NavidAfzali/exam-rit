@@ -1,7 +1,7 @@
 # exam-rit
 لینک پروژه کوپن (پروژه کوپن تمام ویژگی های این پروژه را داراست و همچنین نسبت به این پروژه بسیار کامل تر است) : 
 
-https://github.com/NavidAfzali/project-coupon-website
+https://github.com/NavidAfzali/project-coupon-website/tree/master
 
 برای پروژه فعلی از آخرین کامیت استفاده کنید.
 قبل از اجرای برنامه لطفا دستورات زیر را به ترتیب اجرا کنید:
